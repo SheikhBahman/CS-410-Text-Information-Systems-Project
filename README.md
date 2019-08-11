@@ -1,6 +1,6 @@
 # A Classifier for Text Normalization on Twitter
 
-This project is an implementation of the normalization system described by Jin in this (<http://noisy-text.github.io/2015/pdf/WNUT13.pdf>) paper. We have implemented the constrained mode described in the paper.
+This project is an implementation of the normalization system described by Jin in this (<http://noisy-text.github.io/2015/pdf/WNUT13.pdf>) paper. We have implemented the constrained mode described in the paper as our course project for CS-410-Text-Information-Systems-Project.
 
 ## Getting Started
 
