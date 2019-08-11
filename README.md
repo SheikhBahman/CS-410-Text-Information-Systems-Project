@@ -4,7 +4,7 @@ This project is an implementation of the normalization system described by Jin i
 
 ## Getting Started
 
-git pull https://github.com/natsoule/jin-text-norm
+git pull https://github.com/SheikhBahman/CS-410-Text-Information-Systems-Project
 
 ### Installation
 
