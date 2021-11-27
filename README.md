@@ -2,6 +2,11 @@
 
 This project is an implementation of the normalization system described by Jin in this (<http://noisy-text.github.io/2015/pdf/WNUT13.pdf>) paper. We have implemented the constrained mode described in the paper as our course project for CS-410 Text Information Systems at UIUC.
 
+## Authors
+* Bahman Sheikh
+* Nathan Soule
+* Paul Nel
+
 ## Getting Started
 
 git pull https://github.com/SheikhBahman/CS-410-Text-Information-Systems-Project
@@ -119,12 +124,6 @@ Many of the errors we found in error_out.txt are related to the lack of dictiona
 There are many options for better abbreviation detection. Phonetic similarity, statistical models for deletion-based abbreviations, or even deep learning are possibilities.
 
 Another idea that might help is creating a classifier that decides whether a word is a canonical form or not. In this project, we used our training data to decide whether a given word is a canonical form. A classifier that detects whether a word is likely a canonical form or not, might be helpful for increasing precision.
-
-## Authors
-
-* Nathan Soule
-* Paul Nel
-* Bahman Sheikh
 
 ## Acknowledgments
 
